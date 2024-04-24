@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **ideas generating**.
 - 🌱 I’m currently learning c#, ruby, php, c++, javascript, lua, python.
-- 👯 I’m looking to collaborate with **anyone,** ### ***give me some people i want to chat with someone***.
+- 👯 I’m looking to collaborate with **anyone,** ***give me some people i want to chat with someone***.
 - 🤔 I’m looking for help with **ideas**.
 - 💬 Ask me about my life, projects, knowledge, interests, and almost everything.
 - 📫 How to reach me: Discord: fadeyausus
