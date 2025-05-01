@@ -1,10 +1,7 @@
 ## Bruh default readme template
 
-- 🔭 I’m currently working on **ideas generating**.
-- 🌱 I’m currently learning c#, ruby, php, c++, javascript, lua, python.
-- 👯 I’m looking to collaborate with **anyone,** ***give me some people i want to chat with someone***.
-- 🤔 I’m looking for help with **ideas**.
-- 💬 Ask me about my life, projects, knowledge, interests, and almost everything.
+- 🔭 I’m currently working on **"Creepypasta Retaken Collection"**.
+- 🌱 I’m currently learning c#, c++, javascript.
 - 📫 How to reach me: Discord: fadeyausus
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ctrl + c, ctrl + v, my favorite pals.
@@ -17,5 +14,6 @@
 - also very recommend to visit my youtube page cuz almost everytime i drop my content at there: <https://www.youtube.com/channel/UCpSQS_Uxs0e_iJLbmKQpX0A>
 
 # Released Games: 1
+https://fadeyauso.itch.io/sansebatel
 
-# Released projects: 1
+# Released projects: 0
