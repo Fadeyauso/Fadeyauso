@@ -1,6 +1,6 @@
 ## Bruh default readme template
 
-- 🔭 I’m currently working on **"Creepypasta Retaken Collection"**.
+- 🔭 I’m currently working on **"Some roblox game"**.
 - 🌱 I’m currently learning c#, c++, javascript.
 - 📫 How to reach me: Discord: fadeyausus
 - 😄 Pronouns: he/him
